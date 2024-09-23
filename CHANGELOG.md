@@ -1,5 +1,47 @@
 # Changelog
 
+## [1.130.0](https://github.com/cnpm/unpkg-white-list/compare/v1.129.0...v1.130.0) (2024-09-19)
+
+
+### Features
+
+* add birpc, hookable and perfect-debounce ([#281](https://github.com/cnpm/unpkg-white-list/issues/281)) ([28b3ff9](https://github.com/cnpm/unpkg-white-list/commit/28b3ff93228b345671d915b2321660dacf50041c)), closes [/github.com/vuejs/devtools-next/blob/7891be1eb0f00594ebdf5f9f7b3a1a6e4fbc9154/packages/devtools-kit/package.json#L32-L35](https://github.com/cnpm//github.com/vuejs/devtools-next/blob/7891be1eb0f00594ebdf5f9f7b3a1a6e4fbc9154/packages/devtools-kit/package.json/issues/L32-L35)
+
+## [1.129.0](https://github.com/cnpm/unpkg-white-list/compare/v1.128.0...v1.129.0) (2024-09-18)
+
+
+### Features
+
+* add lowcode-simple-table ([#280](https://github.com/cnpm/unpkg-white-list/issues/280)) ([dc30b5a](https://github.com/cnpm/unpkg-white-list/commit/dc30b5a9b9dbb22f3f0d68c974d96c019dccdffc))
+
+## [1.128.0](https://github.com/cnpm/unpkg-white-list/compare/v1.127.0...v1.128.0) (2024-09-18)
+
+
+### Features
+
+* add pyodide ([#279](https://github.com/cnpm/unpkg-white-list/issues/279)) ([0237068](https://github.com/cnpm/unpkg-white-list/commit/0237068f220d47a844eee01fa82a2140796d2099))
+
+## [1.127.0](https://github.com/cnpm/unpkg-white-list/compare/v1.126.0...v1.127.0) (2024-09-14)
+
+
+### Features
+
+* add [@lincy](https://github.com/lincy) ([#278](https://github.com/cnpm/unpkg-white-list/issues/278)) ([c3d98ce](https://github.com/cnpm/unpkg-white-list/commit/c3d98ced64ece2086acb3277ff480960286e3791))
+
+## [1.126.0](https://github.com/cnpm/unpkg-white-list/compare/v1.125.0...v1.126.0) (2024-09-13)
+
+
+### Features
+
+* add cansin-blogdata ([#277](https://github.com/cnpm/unpkg-white-list/issues/277)) ([90df533](https://github.com/cnpm/unpkg-white-list/commit/90df5333977477d3fbc6014af1c2adf5c2fa5b72))
+
+## [1.125.0](https://github.com/cnpm/unpkg-white-list/compare/v1.124.0...v1.125.0) (2024-09-12)
+
+
+### Features
+
+* add zw-lowcode-plugin-block-pane ([#276](https://github.com/cnpm/unpkg-white-list/issues/276)) ([1e64c55](https://github.com/cnpm/unpkg-white-list/commit/1e64c55c8e205273885c85f35d436d06a985e83b))
+
 ## [1.124.0](https://github.com/cnpm/unpkg-white-list/compare/v1.123.0...v1.124.0) (2024-09-12)
 
 
